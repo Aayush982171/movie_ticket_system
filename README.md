@@ -38,6 +38,13 @@ This is a beginner-friendly Python project that calculates movie ticket price ba
 🎉 Thank you for visiting! Enjoy your movie! 🍿
 
 ---
+##🧑‍💻 Creator Info
+
+Name: Aayush Singh
+
+Country: 🇳🇵 Nepal
+
+Github: [https://github.com/Aayush982171]
 
 ## 🔧 How to Run
 
@@ -47,13 +54,6 @@ Make sure you have Python installed. Then run the file using the command below:
 python movie_ticket_system.py
 
 
----
 
-🧑‍💻 Creator Info
 
-Name: Aayush Singh
-
-Country: 🇳🇵 Nepal
-
-Github: [https://github.com/Aayush982171]
 
