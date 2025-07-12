@@ -38,7 +38,7 @@ This is a beginner-friendly Python project that calculates movie ticket price ba
 🎉 Thank you for visiting! Enjoy your movie! 🍿
 
 ---
-##🧑‍💻 Creator Info
+🧑‍💻 Creator Info
 
 Name: Aayush Singh
 
